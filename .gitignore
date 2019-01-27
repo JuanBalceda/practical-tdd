@@ -1,4 +1,9 @@
-# Intellij
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# Intellij IDE
 .idea/
 *.iml
 
