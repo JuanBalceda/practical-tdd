@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class AppTest {
+public class ValidatorISBNTest {
 
 	@Test
 	public void checkBeValid10ISBN() {

@@ -1,0 +1,6 @@
+package com.balceda.tdd;
+
+public interface ExternalISBNDataService {
+
+	public Book lookup(String isbn);
+}
